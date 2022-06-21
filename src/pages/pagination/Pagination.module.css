@@ -1,0 +1,28 @@
+.pagination {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  text-align: center;
+}
+.prev {
+  margin-right: 15px;
+  cursor: pointer;
+}
+.page {
+  margin-right: 15px;
+  cursor: pointer;
+}
+.next {
+  cursor: pointer;
+}
+.paging {
+  margin-right: 15px;
+  cursor: pointer;
+}
+/* .paging:active {
+  margin-right: 15px;
+  cursor: pointer;
+  color: red;
+} */

@@ -1,0 +1,63 @@
+.wrapper {
+  width: 900px;
+  margin: 0 auto;
+}
+.page_name {
+  font-size: 30px;
+  text-align: center;
+}
+.board {
+  border: 1px solid gray;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.input_list {
+  padding: 20px;
+  /* width: 1000px; */
+  /* display: flex;
+  flex-direction: column; */
+  align-items: center;
+}
+.title_input {
+  align-items: center;
+}
+.comment_input {
+  align-content: center;
+}
+.label {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  /* font-size: 40px; */
+}
+.title {
+  width: 240px;
+}
+.comment {
+  width: 500px;
+  height: 400px;
+  /* margin-top: 10px; */
+  resize: none;
+  padding: 5px;
+}
+.uploadFile {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 223px;
+}
+.button {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  width: 900px;
+  margin-bottom: 10px;
+}
+.submit_btn {
+  cursor: pointer;
+}
+.list_btn {
+  margin-left: 20px;
+  cursor: pointer;
+}
